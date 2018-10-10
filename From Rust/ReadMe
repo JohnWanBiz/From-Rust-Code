@@ -1,0 +1,11 @@
+Hey there! This is some of the code I wrote during my internship with Razbury Games. 
+
+Most of this code is for the UI of the game and concerns itself with displaying the info about each character in an 
+online session to character sheets that the players can pull out using the handle on the side bar. 
+
+I wrote these scripts while considering a large already established coding base and pre existing systems that I had to use and work around.
+
+The main challenges I faced while writing these scripts was using as little of the update function as possible and working around and
+with large systems. 
+
+I also tested this code and made adjustments after finding bugs and heavily commented it so it could be understood later by another employee.
